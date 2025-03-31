@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on JavaScript. I have learned HTML, CSS<br>and Bootstrap<br>I am looking to collaborate on ....<br>I am looking for help with ....
+I am currently working on a self made project. I have learned HTML, CSS,<br>Bootstrap and JavaScript
 
 
 # 💻 Tech Stack:
